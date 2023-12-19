@@ -2,7 +2,7 @@
 
 **I hope you are doing well**
 
-Here are some ideas to get you started:
+This is a small summary of my:
 
 - 🔭 I’m currently working as Freelance Fullstack Developer In Bali, Indonesia
 - 📫 How to reach me: putuyahya5566@gmail.com
