@@ -1,8 +1,6 @@
 ### Hi Friend 👋
 
-### I hope you are doing well
-
-**gedeyahya/gedeyahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I hope you are doing well**
 
 Here are some ideas to get you started:
 
